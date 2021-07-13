@@ -8,7 +8,7 @@ I have used fluid level indicator, for a new concept/application. Mainly the cir
 **MATERIAL DESCRIPTION:**
 
 
-1. Bread Board – We will be working on a bread board for connections on this prototype. 
+1. Bread Board – I will be working on a bread board for connections on this prototype. 
 
 2. A 9-Volt Battery (Li-ion) – Source to produce certain voltage to the circuit. 
 
@@ -34,7 +34,7 @@ Procedure:
 
 2. The negative lead of led is connected to collector(load) of BC547 transistor and the eimtter pin of BC547 is connected to negative.
 
-3. When we want to trigger the transistor we have to apply a small voltage at the transistor base pin so when the sensor probe is in IV fluid, small voltage gets on the base pin and it switches the transistor.
+3. When I want to trigger the transistor a small voltage has to be applied at the transistor base pin so when the sensor probe is in IV fluid, small voltage gets on the base pin and it switches the transistor.
 
 4. As a result the begative lead of LED gets connected to battery negative via emitter pin and LED glows 
 
